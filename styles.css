@@ -1,0 +1,100 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Background color */
+  text-align: center;
+  color: #333; /* Text color */
+}
+
+header {
+  background-color: #333; /* Header background color */
+  padding: 20px;
+}
+
+h1 {
+  font-family: calibri;
+  font-size: 36px;
+  color: white;
+}
+
+/* Center the portfolio grid */
+.portfolio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh; /* Make the grid at least full-height */
+}
+
+/* Style the portfolio grid container */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Create 4 columns */
+  gap: 20px; /* Add some space between grid items */
+  max-width: 1200px; /* Limit the grid width */
+  padding: 20px;
+  justify-content: center;
+}
+
+/* Style each portfolio item */
+.portfolio-item {
+  font-family: calibri;
+  border: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  background-color: #fff; /* Item background color */
+  transition: transform 0.2s ease-in-out;
+  color: #333; /* Text color */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow */
+  width: 300px;
+}
+
+.portfolio-item:hover {
+  transform: scale(1.05); /* Add a slight zoom effect on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increase box shadow on hover */
+}
+
+/* Style the images within the portfolio items */
+.portfolio-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px; /* Rounded corners for images */
+}
+
+/* Style the links */
+.portfolio-item a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Style the project titles */
+.portfolio-item h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+/* Media query for tablets and smaller screens */
+@media (max-width: 1300px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(3, 1fr); /* 1 column for smaller screens */
+  }
+}
+
+@media (max-width: 1000px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(2, 1fr); /* 1 column for smaller screens */
+  }
+}
+
+@media (max-width: 650px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(1, 1fr); /* 1 column for smaller screens */
+  }
+}
