@@ -18,9 +18,15 @@ header {
 }
 
 h1 {
-  font-family: calibri;
+  font-family: calibri-good;
   font-size: 36px;
   color: white;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* Center the portfolio grid */
@@ -43,7 +49,7 @@ h1 {
 
 /* Style each portfolio item */
 .portfolio-item {
-  font-family: calibri;
+  font-family: calibri-good;
   border: 1px solid #ddd;
   padding: 20px;
   text-align: center;
@@ -80,16 +86,21 @@ h1 {
   font-size: 18px;
 }
 
+@font-face {
+  font-family: calibri-good;
+  src: url("/Fonts/calibri.woff");
+}
+
 /* Media query for tablets and smaller screens */
 @media (max-width: 1300px) {
   .portfolio-grid {
-    grid-template-columns: repeat(3, 1fr); /* 1 column for smaller screens */
+    grid-template-columns: repeat(3, 1fr); /* 3 column for smaller screens */
   }
 }
 
 @media (max-width: 1000px) {
   .portfolio-grid {
-    grid-template-columns: repeat(2, 1fr); /* 1 column for smaller screens */
+    grid-template-columns: repeat(2, 1fr); /* 2 column for smaller screens */
   }
 }
 
