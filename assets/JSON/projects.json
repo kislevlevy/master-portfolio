@@ -1,0 +1,32 @@
+[
+  {
+    "mov": "guess_my_number",
+    "name": "Guess My Number!",
+    "type": "Simple Game"
+  },
+  {
+    "mov": "pig_game",
+    "name": "Pig Game",
+    "type": "Simple Game"
+  },
+  {
+    "mov": "budgety",
+    "name": "Budgety",
+    "type": "Simple App"
+  },
+  {
+    "mov": "bankist_app",
+    "name": "Bankist App",
+    "type": "Modern App Development"
+  },
+  {
+    "mov": "bankist_domain",
+    "name": "Bankist Domain",
+    "type": "Modern WebUI Development"
+  },
+  {
+    "mov": "mapty",
+    "name": "Mapty",
+    "type": "Complex API Integration"
+  }
+]
