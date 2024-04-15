@@ -28,5 +28,10 @@
     "mov": "mapty",
     "name": "Mapty",
     "type": "Complex API Integration"
+  },
+  {
+    "mov": "forkify",
+    "name": "Forkify",
+    "type": "Complex API Integration With Modern WebUI"
   }
 ]
