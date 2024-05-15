@@ -6,4 +6,4 @@ You are welcome to take inspiration and ideas!</br>
 
 ## Credits
 
-Tamplete built with codewithsadee - [Link](https://github.com/codewithsadee/vcard-personal-portfolio)
+Tamplete built with codewithsadee - [link](https://github.com/codewithsadee/vcard-personal-portfolio)
