@@ -35,7 +35,7 @@
     "type": "Complex API Integration With Modern WebUI"
   },
   {
-    "mov": "chat-verse",
+    "mov": "chat_verse",
     "name": "Chat Verse",
     "type": "Next.js app built with type-script and web security in mind.",
     "link": "https://chat-verse.kislev.me/"
