@@ -37,14 +37,17 @@ for (let i = 0; i < navigationLinks.length; i++) {
 // Project insert in portfolio tab
 const response = await fetch(`./assets/JSON/projects.json`);
 const projects = await response.json();
-
 const grid = document.querySelector(".project-list");
 grid.innerHTML = "";
 
 projects.forEach(function (mov) {
+  const linkUrl = mov.link
+    ? mov.link
+    : `./assets/projects/${mov.mov}/index.html`;
+
   const html = `
   <li class="project-item active">
-    <a href="./assets/projects/${mov.mov}/index.html">
+    <a href="${linkUrl}">
       <figure class="project-img">
         <div class="project-item-icon-box">
           <ion-icon name="eye-outline"></ion-icon>

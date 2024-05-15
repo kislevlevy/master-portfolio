@@ -33,5 +33,11 @@
     "mov": "forkify",
     "name": "Forkify",
     "type": "Complex API Integration With Modern WebUI"
+  },
+  {
+    "mov": "chat-verse",
+    "name": "Chat Verse",
+    "type": "Next.js app built with type-script and web security in mind.",
+    "link": "https://chat-verse.kislev.me/"
   }
 ]
