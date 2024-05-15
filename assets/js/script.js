@@ -45,6 +45,18 @@ projects.forEach(function (mov) {
     ? mov.link
     : `./assets/projects/${mov.mov}/index.html`;
 
+  const skillRender = (skills) => {
+    const skillProcessed = skills.map((skill) => {
+      return `<li class="skill-item">${skill}</li>`;
+    });
+    console.log(skillProcessed);
+    return `
+    <ul class="skill-block" >
+      ${skillProcessed.toString().replaceAll(",", " ")}
+    </ul>
+    `;
+  };
+
   const html = `
   <li class="project-item active">
     <a href="${linkUrl}">
@@ -64,6 +76,7 @@ projects.forEach(function (mov) {
   
       <p class="project-category">${mov.type}</p>
     </a>
+    ${skillRender(mov.skills)}
   </li>
   `;
 

@@ -1045,3 +1045,26 @@ main {
     justify-content: center;
   }
 }
+
+.skill-block {
+  display: flex;
+  cursor: default;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.skill-item {
+  flex: 1 1 auto;
+  min-width: 50px;
+  box-sizing: border-box;
+  padding: 5px;
+  border: 1px solid #ccc;
+  text-align: center;
+
+  color: var(--light-gray-70);
+  font-size: var(--fs-8);
+  background-color: var(--bg-gradient-jet);
+}

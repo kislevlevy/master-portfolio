@@ -2,42 +2,76 @@
   {
     "mov": "guess_my_number",
     "name": "Guess My Number!",
-    "type": "Simple Game"
+    "type": "Simple game",
+    "skills": ["javascript", "DOM manipulation"]
   },
   {
     "mov": "pig_game",
     "name": "Pig Game",
-    "type": "Simple Game"
+    "type": "Simple game",
+    "skills": ["javascript", "DOM manipulation"]
   },
   {
     "mov": "budgety",
     "name": "Budgety",
-    "type": "Simple App"
+    "type": "Simple budget app",
+    "skills": ["javascript", "DOM manipulation", "RestAPI"]
   },
   {
     "mov": "bankist_app",
     "name": "Bankist App",
-    "type": "Modern App Development"
+    "type": "Modern banking app with transaction capabillities",
+    "skills": ["javascript", "DOM manipulation", "RestAPI"]
   },
   {
     "mov": "bankist_domain",
     "name": "Bankist Domain",
-    "type": "Modern WebUI Development"
+    "type": "business website with modern UI elements",
+    "skills": [
+      "javascript",
+      "DOM manipulation",
+      "RestAPI",
+      "CSS class manipulation"
+    ]
   },
   {
     "mov": "mapty",
     "name": "Mapty",
-    "type": "Complex API Integration"
+    "type": "Workouts mapping appliction, with modern api integration",
+    "skills": [
+      "javascript",
+      "DOM manipulation",
+      "RestAPI",
+      "Simple Database",
+      "GIT",
+      "Parcel"
+    ]
   },
   {
     "mov": "forkify",
     "name": "Forkify",
-    "type": "Complex API Integration With Modern WebUI"
+    "type": "Recipe search app with modern UI and complex api integration",
+    "skills": [
+      "javascript",
+      "DOM manipulation",
+      "RestAPI",
+      "Simple Database",
+      "GIT",
+      "Parcel"
+    ]
   },
   {
     "mov": "chat_verse",
     "name": "Chat Verse",
-    "type": "Next.js app built with type-script and web security in mind.",
+    "type": "Fully working and functional Discord clone, built with Next.js",
+    "skills": [
+      "Next.js",
+      "PrismaDB",
+      "Typescript",
+      "RestAPI",
+      "Web-Socket",
+      "GIT"
+    ],
     "link": "https://chat-verse.kislev.me/"
   }
 ]
