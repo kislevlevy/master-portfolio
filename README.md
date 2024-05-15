@@ -1,8 +1,8 @@
 # Master Portfolio Site Assets
 
-The site is hosted and you can acses it with the [Link](https://kislev.me/).
-Evry line of code in the portfolio are written by me.
-You are welcome to take insperation and ideas!
+The site is hosted, and you can access it using the [link](https://kislev.me/).</br>
+I wrote every line of code in the portfolio.</br>
+You are welcome to take inspiration and ideas!</br>
 
 ## Credits
 
