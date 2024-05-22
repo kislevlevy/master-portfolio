@@ -1,0 +1,118 @@
+# Version Control
+
+This document tracks the versions and changes made to the project.
+
+## Table of Contents
+
+1. [Version 2.6](#version-26)
+2. [Version 2.5](#version-25)
+3. [Version 2.4](#version-24)
+4. [Version 2.3](#version-23)
+5. [Version 2.2](#version-22)
+6. [Version 2.1](#version-21)
+7. [Version 2.0](#version-20)
+8. [Version 1.3](#version-13)
+9. [Version 1.2](#version-12)
+10. [Version 1.1](#version-11)
+11. [Version 1.0](#version-10)
+
+---
+
+## Version 2.6
+
+**Release Date:** 2024-05-22
+
+**Changes:**
+
+- Added a comprehensive Version Control document to track all versions and changes made to the project. This document serves as a detailed changelog, helping to maintain a history of modifications and project evolution.
+
+## Version 2.5
+
+**Release Date:** 2024-05-16
+
+**Changes:**
+
+- Added initial documentation to the project, including setup instructions, feature descriptions, and usage guidelines. This improves the onboarding experience for new users and contributors.
+
+## Version 2.4
+
+**Release Date:** 2024-05-15
+
+**Changes:**
+
+- Updated `projects.json` file to include detailed project descriptions, tags for categorization, and deployment URLs. This enhances the portfolio's functionality and user experience by providing more information and easy access to project demos.
+- Added a new project, 'Chat Verse', to the portfolio. This project is a fully functional Discord clone with extensive features for server and channel management, text and voice chat, and more.
+
+## Version 2.3
+
+**Release Date:** 2024-05-15
+
+**Changes:**
+
+- Renamed project names in the `projects.json` file to ensure compatibility with upcoming projects. This change prepares the portfolio for future expansions and integrations.
+
+## Version 2.2
+
+**Release Date:** 2024-05-15
+
+**Changes:**
+
+- Redesigned the portfolio's DOM manipulation functions to work with the `projects.json` file. This refactor improves code maintainability and performance, making it easier to manage and display project data dynamically.
+
+## Version 2.1
+
+**Release Date:** 2024-04-15
+
+**Changes:**
+
+- Added a new project, 'Forkify', to the portfolio. 'Forkify' is a recipe search engine that allows users to find, collect, and create recipes. It features a modern UI and extensive search capabilities without requiring user login.
+
+## Version 2.0
+
+**Release Date:** 2024-03-24
+
+**Changes:**
+
+- Undertook a complete redesign of the portfolio. This major update improved the overall aesthetics, usability, and responsiveness of the site, providing a better user experience and showcasing projects more effectively.
+
+## Version 1.3
+
+**Release Date:** 2024-03-12
+
+**Changes:**
+
+- Renamed the 'Bankist' project to 'Bankist App' to better reflect its purpose and functionality as a banking application.
+
+## Version 1.2
+
+**Release Date:** 2024-03-12
+
+**Changes:**
+
+- Added two new projects to the portfolio:
+  - 'Bankist': An example banking application with functionalities such as money transfer, loan requests, and account management.
+  - 'Bankist Domain': A company example site featuring modern web design elements like smooth scrolling, lazy loading, and responsive sections.
+
+## Version 1.1
+
+**Release Date:** 2024-03-11
+
+**Changes:**
+
+- Added a new project, 'Budgety', to the portfolio. 'Budgety' is a budget management app that allows users to add income and expenses, view total expenses and income, and manage their budget effectively.
+
+## Version 1.0
+
+**Release Date:** 2024-03-06
+
+**Changes:**
+
+- Initial release of the project. Set up the basic structure of the portfolio and included core features such as project listing, navigation, and initial styling.
+
+---
+
+## How to Use This Document
+
+This document serves as a changelog to track the development and updates of the project. Each version entry includes the release date and a summary of changes made. This helps in understanding the evolution of the project and maintaining a history of modifications.
+
+---
