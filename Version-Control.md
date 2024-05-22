@@ -18,6 +18,15 @@ This document tracks the versions and changes made to the project.
 
 ---
 
+## Version 2.7
+
+**Release Date:** 2024-05-22
+
+**Changes:**
+
+- Added New Project: Introduced "Our Farm," a simple Node.js API server that supports a shopping site for fresh farm goods like vegetables and cheese. This project focuses on efficient GET request handling and offers a seamless user experience.
+- Updated Social Links: Refined the social media links for better accessibility and updated information, ensuring easy and professional connections on platforms like LinkedIn and personal portfolio.
+
 ## Version 2.6
 
 **Release Date:** 2024-05-22

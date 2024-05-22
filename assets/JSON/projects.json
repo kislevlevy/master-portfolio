@@ -73,5 +73,19 @@
       "GIT"
     ],
     "link": "https://chat-verse.kislev.me/"
+  },
+  {
+    "mov": "our_farm",
+    "name": "Our Farm",
+    "type": "Fully working and functional Discord clone, built with Next.js",
+    "skills": [
+      "Node.js",
+      "javascript",
+      "DOM manipulation",
+      "RestAPI",
+      "API Server",
+      "GIT"
+    ],
+    "link": "https://our-farm.kislev.me/"
   }
 ]
