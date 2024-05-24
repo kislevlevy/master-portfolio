@@ -4,8 +4,8 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
-1. [Version 2.6](#version-26)
-2. [Version 2.7](#version-27)
+1. [Version 2.7](#version-27)
+2. [Version 2.6](#version-26)
 3. [Version 2.5](#version-25)
 4. [Version 2.4](#version-24)
 5. [Version 2.3](#version-23)
