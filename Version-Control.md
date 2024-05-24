@@ -5,16 +5,17 @@ This document tracks the versions and changes made to the project.
 ## Table of Contents
 
 1. [Version 2.6](#version-26)
-2. [Version 2.5](#version-25)
-3. [Version 2.4](#version-24)
-4. [Version 2.3](#version-23)
-5. [Version 2.2](#version-22)
-6. [Version 2.1](#version-21)
-7. [Version 2.0](#version-20)
-8. [Version 1.3](#version-13)
-9. [Version 1.2](#version-12)
-10. [Version 1.1](#version-11)
-11. [Version 1.0](#version-10)
+2. [Version 2.7](#version-27)
+3. [Version 2.5](#version-25)
+4. [Version 2.4](#version-24)
+5. [Version 2.3](#version-23)
+6. [Version 2.2](#version-22)
+7. [Version 2.1](#version-21)
+8. [Version 2.0](#version-20)
+9. [Version 1.3](#version-13)
+10. [Version 1.2](#version-12)
+11. [Version 1.1](#version-11)
+12. [Version 1.0](#version-10)
 
 ---
 
