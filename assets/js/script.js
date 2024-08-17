@@ -49,7 +49,6 @@ projects.forEach(function (mov) {
     const skillProcessed = skills.map((skill) => {
       return `<li class="skill-item">${skill}</li>`;
     });
-    console.log(skillProcessed);
     return `
     <ul class="skill-block" >
       ${skillProcessed.toString().replaceAll(",", " ")}

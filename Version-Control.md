@@ -4,20 +4,33 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
-1. [Version 2.7](#version-27)
-2. [Version 2.6](#version-26)
-3. [Version 2.5](#version-25)
-4. [Version 2.4](#version-24)
-5. [Version 2.3](#version-23)
-6. [Version 2.2](#version-22)
-7. [Version 2.1](#version-21)
-8. [Version 2.0](#version-20)
-9. [Version 1.3](#version-13)
-10. [Version 1.2](#version-12)
-11. [Version 1.1](#version-11)
-12. [Version 1.0](#version-10)
+1. [Version 2.8](#version-28)
+2. [Version 2.7](#version-27)
+3. [Version 2.6](#version-26)
+4. [Version 2.5](#version-25)
+5. [Version 2.4](#version-24)
+6. [Version 2.3](#version-23)
+7. [Version 2.2](#version-22)
+8. [Version 2.1](#version-21)
+9. [Version 2.0](#version-20)
+10. [Version 1.3](#version-13)
+11. [Version 1.2](#version-12)
+12. [Version 1.1](#version-11)
+13. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.8
+
+**Release Date:** 2024-08-16
+
+**Changes:**
+
+- Added New Projects:
+  - **Get Movie Recommendations:** A movie search engine allowing users to search by name, year, and type (movie/TV) with a clean design and a modal for more detailed information. Built using OMDB API, JavaScript, custom CSS, HTML, and JSON.
+  - **Clean Weather Client:** A weather search engine providing forecasts for the next 5 days with a modern, clean design and map integration showing the queried location. Built using Google Maps API, OpenWeather API, JavaScript, custom CSS, HTML, and JSON.
+  - **Cashier Client:** A store management software enabling product management, user authentication, and role control. Features include adding, removing, and editing products, handling feedback, and more. Backend built with Node.js, MongoDB, Mongoose, Atlas DB, Express; frontend built with JavaScript, custom CSS, HTML, and JSON.
+  - **Todo App:** A task management app featuring title, body, urgency levels, due dates, task filtering, and local storage. Fully responsive and built with React, Bootstrap, JavaScript, HTML, CSS, and JSON.
 
 ## Version 2.7
 

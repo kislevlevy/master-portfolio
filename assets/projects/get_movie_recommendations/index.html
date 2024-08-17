@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Movie Recommendations</title>
+
+    <script type="module" defer src="./src/js/controller.js"></script>
+    <script
+      src="https://kit.fontawesome.com/7e0877ff5a.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./src/css/style.css" />
+    <link rel="stylesheet" href="./src/css/col.css" />
+    <link rel="stylesheet" href="./src/css/animation.css" />
+  </head>
+  <body>
+    <div class="overlay hidden">
+      <div class="modal zoom-in hidden">
+        <button value="close-modal">❌</button>
+        <div class="modal-cont">aaa</div>
+      </div>
+    </div>
+
+    <header>
+      <h1>My Movie Recommendations</h1>
+      <nav>
+        <form class="search">
+          <input required type="text" placeholder="Enter your query..." />
+          <input type="number" min="1900" max="2024" step="1" placeholder="Year" />
+          <select name="Type">
+            <option disabled hidden selected>Type</option>
+            <option value="movie">Movie</option>
+            <option value="series">Series</option>
+          </select>
+
+          <input type="reset" />
+          <button type="submit">🔎</button>
+        </form>
+      </nav>
+    </header>
+
+    <main>
+      <section class="cards-cont"></section>
+      <section class="pagination-cont"></section>
+    </main>
+
+    <footer></footer>
+  </body>
+</html>

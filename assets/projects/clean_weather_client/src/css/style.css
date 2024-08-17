@@ -1,0 +1,163 @@
+/* Global */
+* {
+  font-family: Verdana;
+}
+body {
+  width: 95vw;
+  height: 95vh;
+  margin: 2.5vh 2.5vw;
+
+  background-color: darkgray;
+}
+
+/* Map */
+#map {
+  height: 100%;
+  width: 100%;
+
+  border-radius: 15px;
+  z-index: -1;
+}
+
+/* Overlay */
+.overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: background-color, 0.8s;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.overlay:hover:not(:has(.modal:hover)) {
+  background-color: rgba(0, 0, 0, 0.1);
+  transition: background-color, 0.8s;
+}
+
+/* Modal */
+.modal {
+  height: fit-content;
+  width: 50%;
+
+  max-height: 550px;
+  max-width: 750px;
+
+  position: absolute;
+  z-index: 2;
+  padding: 15px;
+  margin: 0 2.5vw 2.5vh 0;
+
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+
+  overflow: scroll;
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.modal::-webkit-scrollbar {
+  display: none;
+}
+.modal form {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.modal input {
+  height: 100%;
+  width: 90%;
+
+  border: none;
+  padding: 10px;
+  margin-right: 7px;
+  border-radius: 7px;
+}
+.modal button {
+  height: 100%;
+  width: 25%;
+
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+
+  background-color: #017cfe;
+  color: white;
+}
+.modal button:hover {
+  cursor: pointer;
+  background-color: #005dc1;
+}
+.modal h3 {
+  text-align: center;
+  font-size: 25px;
+}
+
+/* Forcast */
+.forecast-table {
+  width: 100%;
+  list-style-type: none;
+
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  padding: 0;
+}
+.forecast-table li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 20px 5px;
+
+  text-align: center;
+}
+.forecast-table li img {
+  width: 100px;
+  height: 100px;
+}
+
+/* Error message */
+.error-msg {
+  width: 100%;
+  text-align: center;
+
+  font-weight: 600;
+}
+
+/* Position modal */
+.right-bottom-position {
+  right: 0;
+  bottom: 0;
+}
+
+/* Spin: */
+.spinner-cont {
+  height: 50px;
+}
+.spin {
+  animation-name: spin;
+  animation-duration: 1500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+  position: absolute;
+  left: 45%;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

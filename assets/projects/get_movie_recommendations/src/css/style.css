@@ -1,0 +1,273 @@
+/* Global settings: */
+* {
+  font-family: Verdana, calibri;
+}
+body {
+  max-width: 1000px;
+
+  margin: 0 auto;
+  padding: 10px;
+}
+
+/* Header: */
+header {
+  width: 100%;
+
+  text-align: center;
+  padding: 20px 0;
+  background-color: rgb(75, 75, 75);
+  color: white;
+
+  border-radius: 15px 15px 0 0;
+}
+header h1 {
+  font-size: 25px;
+}
+.search {
+  min-height: 30px;
+  max-height: 120px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin: 0 auto;
+}
+.search * {
+  height: 30px;
+
+  margin: 2px;
+  padding: 0 5px;
+
+  border: 0;
+  border-radius: 5px;
+}
+.search input:nth-child(4):hover,
+.search button:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.65);
+}
+
+/* Main */
+main {
+  width: 100%;
+}
+
+/* cards-cont */
+.cards-cont {
+  width: 100%;
+  min-height: 50vh;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: start;
+
+  padding: 20px 0;
+  background-color: rgb(213, 235, 255);
+}
+
+/* Card */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  border: 2px solid rgb(171, 178, 185);
+
+  padding: 10px;
+  margin: 5px;
+  border-radius: 15px;
+
+  background-color: white;
+}
+.card img {
+  width: 100%;
+  object-fit: contain;
+}
+.card button {
+  width: 100%;
+
+  border-radius: 5px;
+
+  background-color: dimgray;
+  color: white;
+
+  font-family: inherit;
+}
+.card button:hover {
+  cursor: pointer;
+  background-color: rgb(151, 151, 151);
+}
+
+/* Error message: */
+.error-msg {
+  width: 50%;
+}
+
+/* Pagination Conteiner */
+.pagination-cont {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(138, 180, 219);
+}
+.pagination-cont div {
+  max-width: 500px;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-around;
+}
+.pagination-cont div * {
+  width: 125px;
+  height: 25px;
+
+  margin: 5px 0;
+  padding: 0 5px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+.pagination-cont h5 {
+  text-align: center;
+  margin: 5px 0px;
+}
+.pagination-cont button:hover {
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Footer: */
+footer {
+  width: 100%;
+
+  height: 100px;
+  background-color: rgb(75, 75, 75);
+  border-radius: 0 0 15px 15px;
+}
+
+/* Overly & modal */
+.overlay {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: fixed;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.modal {
+  width: 50%;
+  min-width: 300px;
+  max-width: 500px;
+
+  height: 70%;
+  min-height: 400px;
+  max-height: 600px;
+
+  position: fixed;
+
+  border-radius: 15px;
+
+  background-color: rgb(220, 220, 220);
+  border: 6px solid rgb(171, 178, 185);
+
+  overflow: scroll;
+  overflow-x: hidden;
+
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.modal::-webkit-scrollbar {
+  display: none;
+}
+.modal button {
+  float: right;
+
+  position: sticky;
+  top: 0;
+
+  border: 0;
+  border-radius: 5px;
+  padding: 10px;
+
+  background-color: rgba(0, 0, 0, 0);
+}
+.modal button:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+.modal-cont {
+  width: 90%;
+  height: 100%;
+
+  padding: 5%;
+}
+.hidden {
+  display: none;
+}
+
+/* Modal card */
+.more-info-card {
+  height: auto;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+}
+.more-info-card h4 {
+  text-align: center;
+}
+.more-info-card h5 {
+  text-align: center;
+  margin: 0;
+  margin-top: 20px;
+}
+.more-info-card img {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}
+.more-info-card span {
+  font-size: 13px;
+}
+.more-info-card button {
+  border: 1px solid black;
+  margin: 15px 0;
+}
+.more-info-card-info {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+}
+.more-info-card-info ul {
+  width: fit-content;
+  max-width: 25%;
+
+  padding: 0px;
+}
+.more-info-card-info li {
+  list-style-type: none;
+
+  font-size: 12px;
+  padding: 2px;
+}
+.more-info-card-info li:first-child {
+  font-weight: bold;
+}
+.more-info-card p {
+  font-size: 13px;
+}

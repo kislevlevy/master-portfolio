@@ -1,0 +1,46 @@
+/* Spin: */
+.spin {
+  animation-name: spin;
+  animation-duration: 1500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+  position: absolute;
+  left: 50%;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Zoom out */
+.zoom-out {
+  animation: zoom-out 500ms forwards !important;
+}
+@keyframes zoom-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+/* Zoom in */
+.zoom-in {
+  animation: zoom-in 200ms;
+}
+@keyframes zoom-in {
+  from {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

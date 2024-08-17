@@ -86,6 +86,57 @@
       "API Server",
       "GIT"
     ],
-    "link": "https://our-farm.kislev.me/"
+    "link": "https://github.com/kislevlevy/our-farm"
+  },
+  {
+    "mov": "get_movie_recommendations",
+    "name": "Get Movie Recommendations",
+    "type": "movie search engine with a clean design and modal for detailed info",
+    "skills": [
+      "JavaScript",
+      "DOM manipulation",
+      "OMDB API integration",
+      "Custom CSS"
+    ]
+  },
+  {
+    "mov": "clean_weather_client",
+    "name": "Clean Weather Client",
+    "type": "weather search engine with a modern design and map integration",
+    "skills": [
+      "JavaScript",
+      "OpenWeather API integration",
+      "Google Maps API integration",
+      "Custom CSS"
+    ]
+  },
+  {
+    "mov": "cashier_client",
+    "name": "Cashier Client",
+    "type": "store management software with secure user authentication and product management",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "MongoDB",
+      "Mongoose",
+      "Express",
+      "Role-based access control",
+      "Atlas DB integration",
+      "Custom CSS"
+    ],
+    "link": "https://cashier-client.kislev.me/"
+  },
+  {
+    "mov": "todo_app",
+    "name": "Todo App",
+    "type": "task management app with urgency filtering and local storage",
+    "skills": [
+      "React",
+      "Bootstrap",
+      "JavaScript",
+      "Responsive design",
+      "Local Storage management"
+    ],
+    "link": "https://todo-app.kislev.me/"
   }
 ]
