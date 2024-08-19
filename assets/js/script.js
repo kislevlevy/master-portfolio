@@ -41,9 +41,7 @@ const grid = document.querySelector(".project-list");
 grid.innerHTML = "";
 
 projects.forEach(function (mov) {
-  const linkUrl = mov.link
-    ? mov.link
-    : `./assets/projects/${mov.mov}/index.html`;
+  const linkUrl = mov.link || `./assets/projects/${mov.mov}/index.html`;
 
   const skillRender = (skills) => {
     const skillProcessed = skills.map((skill) => {
@@ -58,7 +56,7 @@ projects.forEach(function (mov) {
 
   const html = `
   <li class="project-item active">
-    <a href="${linkUrl}">
+    <a href="${linkUrl}" target="_blank">
       <figure class="project-img">
         <div class="project-item-icon-box">
           <ion-icon name="eye-outline"></ion-icon>
