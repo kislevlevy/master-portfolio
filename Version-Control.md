@@ -4,21 +4,40 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
-1. [Version 2.8](#version-28)
-2. [Version 2.7](#version-27)
-3. [Version 2.6](#version-26)
-4. [Version 2.5](#version-25)
-5. [Version 2.4](#version-24)
-6. [Version 2.3](#version-23)
-7. [Version 2.2](#version-22)
-8. [Version 2.1](#version-21)
-9. [Version 2.0](#version-20)
-10. [Version 1.3](#version-13)
-11. [Version 1.2](#version-12)
-12. [Version 1.1](#version-11)
-13. [Version 1.0](#version-10)
+1. [Version 2.10](#version-210)
+2. [Version 2.9](#version-29)
+3. [Version 2.8](#version-28)
+4. [Version 2.7](#version-27)
+5. [Version 2.6](#version-26)
+6. [Version 2.5](#version-25)
+7. [Version 2.4](#version-24)
+8. [Version 2.3](#version-23)
+9. [Version 2.2](#version-22)
+10. [Version 2.1](#version-21)
+11. [Version 2.0](#version-20)
+12. [Version 1.3](#version-13)
+13. [Version 1.2](#version-12)
+14. [Version 1.1](#version-11)
+15. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.10
+
+**Release Date:** 2024-08-20
+
+**Changes:**
+
+- Fixed missing closing tags in HTML files. This update resolves potential rendering issues and improves the overall code quality and maintainability.
+
+## Version 2.9
+
+**Release Date:** 2024-08-17
+
+**Changes:**
+
+- Added a new script to open project links in a new tab, enhancing user experience by allowing seamless browsing between projects.
+- Fixed JSON data issues, ensuring accurate data representation and preventing potential errors in project display.
 
 ## Version 2.8
 
@@ -137,5 +156,3 @@ This document tracks the versions and changes made to the project.
 ## How to Use This Document
 
 This document serves as a changelog to track the development and updates of the project. Each version entry includes the release date and a summary of changes made. This helps in understanding the evolution of the project and maintaining a history of modifications.
-
----
