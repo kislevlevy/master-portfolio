@@ -131,5 +131,34 @@
       "Responsive design"
     ],
     "link": "https://todo-app.kislev.me/"
+  },
+  {
+    "mov": "teva-naot",
+    "name": "Teva Naot",
+    "type": "Teva Naot Better Clone aims to modernize the e-commerce experience for the Israeli shoe brand Teva Naot",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Mongoose",
+      "Express",
+      "Tailwind",
+      "JavaScript",
+      "Responsive design"
+    ],
+    "link": "https://teva-naot.kislev.me/"
+  },
+  {
+    "mov": "AVendingMachine",
+    "name": "AVendingMachine",
+    "type": "Landing site built for a proffessional company",
+    "skills": [
+      "React",
+      "Typescript",
+      "ShadcnUi",
+      "Tailwind",
+      "Responsive design"
+    ],
+    "link": "https://AVendingMachine.kislev.me/"
   }
 ]

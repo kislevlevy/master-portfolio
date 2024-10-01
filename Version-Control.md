@@ -4,6 +4,7 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
+1. [Version 2.11](#version-211)
 1. [Version 2.10](#version-210)
 2. [Version 2.9](#version-29)
 3. [Version 2.8](#version-28)
@@ -21,6 +22,14 @@ This document tracks the versions and changes made to the project.
 15. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.11
+
+**Release Date:** 2024-10-01
+
+**Changes:**
+
+- Added two new projects to portfolio.
 
 ## Version 2.10
 
