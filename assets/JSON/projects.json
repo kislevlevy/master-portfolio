@@ -63,7 +63,7 @@
     "name": "Chat Verse",
     "type": "Fully working and functional Discord clone, built with Next.js",
     "skills": ["Next.js", "PrismaDB", "Typescript", "RestAPI", "Web-Socket"],
-    "link": "https://chat-verse.kislev.me/"
+    "link": "https://github.com/kislevlevy/chat-verse"
   },
   {
     "mov": "our_farm",

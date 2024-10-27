@@ -77,5 +77,5 @@ projects.forEach(function (mov) {
   </li>
   `;
 
-  grid.insertAdjacentHTML("beforeend", html);
+  grid.insertAdjacentHTML("afterbegin", html);
 });
