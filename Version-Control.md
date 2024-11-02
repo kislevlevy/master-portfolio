@@ -4,6 +4,7 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
+1. [Version 2.12](#version-213)
 1. [Version 2.12](#version-212)
 1. [Version 2.11](#version-211)
 1. [Version 2.10](#version-210)
@@ -23,6 +24,15 @@ This document tracks the versions and changes made to the project.
 1. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.13
+
+**Release Date:** 2024-11-03
+
+**Changes:**
+
+- Enhanced about me section.
+- Changed profile image
 
 ## Version 2.12
 
