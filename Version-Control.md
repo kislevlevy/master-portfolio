@@ -4,6 +4,7 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
+1. [Version 2.12](#version-214)
 1. [Version 2.12](#version-213)
 1. [Version 2.12](#version-212)
 1. [Version 2.11](#version-211)
@@ -24,6 +25,14 @@ This document tracks the versions and changes made to the project.
 1. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.14
+
+**Release Date:** 2024-11-06
+
+**Changes:**
+
+- Added new project - Natours
 
 ## Version 2.13
 

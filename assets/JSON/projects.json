@@ -160,5 +160,19 @@
       "Responsive design"
     ],
     "link": "https://AVendingMachine.kislev.me/"
+  },
+  {
+    "mov": "natours",
+    "name": "Natours",
+    "type": "Full-stack application designed for tour management, featuring a RESTful API and server-rendered pages. The app is fully optimized, allowing users to explore, book, and manage tours with a seamless experience.",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Server side rendering",
+      "RESTful APIs",
+      "Stripe payments"
+    ],
+    "link": "https://natours.kislev.me/"
   }
 ]
