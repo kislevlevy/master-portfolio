@@ -4,8 +4,9 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
-1. [Version 2.12](#version-214)
-1. [Version 2.12](#version-213)
+1. [Version 2.15](#version-215)
+1. [Version 2.14](#version-214)
+1. [Version 2.13](#version-213)
 1. [Version 2.12](#version-212)
 1. [Version 2.11](#version-211)
 1. [Version 2.10](#version-210)
@@ -25,6 +26,14 @@ This document tracks the versions and changes made to the project.
 1. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.15
+
+**Release Date:** 2024-12-14
+
+**Changes:**
+
+- Added new project - Studybud
 
 ## Version 2.14
 

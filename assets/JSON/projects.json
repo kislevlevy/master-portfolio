@@ -174,5 +174,17 @@
       "Stripe payments"
     ],
     "link": "https://natours.kislev.me/"
+  },
+  {
+    "mov": "studybud",
+    "name": "Studybud",
+    "type": "A responsive forum for programmers to discuss topics, manage rooms, exchange messages, and view user profiles, built with Django, SQLite, and DRF.",
+    "skills": [
+      "Django",
+      "SQLite",
+      "Django Rest Framework",
+      "Server side rendering"
+    ],
+    "link": "https://github.com/kislevlevy/studybud"
   }
 ]
