@@ -4,6 +4,7 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
+1. [Version 2.16](#version-217)
 1. [Version 2.16](#version-216)
 1. [Version 2.15](#version-215)
 1. [Version 2.14](#version-214)
@@ -28,9 +29,17 @@ This document tracks the versions and changes made to the project.
 
 ---
 
-## Version 2.16
+## Version 2.17
 
 **Release Date:** 2025-01-12
+
+**Changes:**
+
+- Fix for Forkify project
+
+## Version 2.16
+
+**Release Date:** 2025-01-11
 
 **Changes:**
 
