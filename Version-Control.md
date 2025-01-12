@@ -4,6 +4,7 @@ This document tracks the versions and changes made to the project.
 
 ## Table of Contents
 
+1. [Version 2.16](#version-216)
 1. [Version 2.15](#version-215)
 1. [Version 2.14](#version-214)
 1. [Version 2.13](#version-213)
@@ -26,6 +27,17 @@ This document tracks the versions and changes made to the project.
 1. [Version 1.0](#version-10)
 
 ---
+
+## Version 2.16
+
+**Release Date:** 2025-01-12
+
+**Changes:**
+
+- Removed about section
+- Changed all project links to GitHub
+- Changed project order
+- Updates to styles.css and index.html
 
 ## Version 2.15
 
