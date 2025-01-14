@@ -2,33 +2,47 @@
 
 This document tracks the versions and changes made to the project.
 
-## Table of Contents
+<details>
+  <summary>Version History</summary>
 
-1. [Version 2.18](#version-218)
-1. [Version 2.17](#version-217)
-1. [Version 2.16](#version-216)
-1. [Version 2.15](#version-215)
-1. [Version 2.14](#version-214)
-1. [Version 2.13](#version-213)
-1. [Version 2.12](#version-212)
-1. [Version 2.11](#version-211)
-1. [Version 2.10](#version-210)
-1. [Version 2.9](#version-29)
-1. [Version 2.8](#version-28)
-1. [Version 2.7](#version-27)
-1. [Version 2.6](#version-26)
-1. [Version 2.5](#version-25)
-1. [Version 2.4](#version-24)
-1. [Version 2.3](#version-23)
-1. [Version 2.2](#version-22)
-1. [Version 2.1](#version-21)
-1. [Version 2.0](#version-20)
-1. [Version 1.3](#version-13)
-1. [Version 1.2](#version-12)
-1. [Version 1.1](#version-11)
-1. [Version 1.0](#version-10)
+| Version | Release Date | Link                         |
+| ------- | ------------ | ---------------------------- |
+| 2.19    | 2025-01-14   | [Version 2.19](#version-219) |
+| 2.18    | 2025-01-12   | [Version 2.18](#version-218) |
+| 2.17    | 2025-01-12   | [Version 2.17](#version-217) |
+| 2.16    | 2025-01-11   | [Version 2.16](#version-216) |
+| 2.15    | 2024-12-14   | [Version 2.15](#version-215) |
+| 2.14    | 2024-11-06   | [Version 2.14](#version-214) |
+| 2.13    | 2024-11-03   | [Version 2.13](#version-213) |
+| 2.12    | 2024-10-27   | [Version 2.12](#version-212) |
+| 2.11    | 2024-10-01   | [Version 2.11](#version-211) |
+| 2.10    | 2024-08-20   | [Version 2.10](#version-210) |
+| 2.9     | 2024-08-17   | [Version 2.9](#version-29)   |
+| 2.8     | 2024-08-16   | [Version 2.8](#version-28)   |
+| 2.7     | 2024-05-22   | [Version 2.7](#version-27)   |
+| 2.6     | 2024-05-22   | [Version 2.6](#version-26)   |
+| 2.5     | 2024-05-16   | [Version 2.5](#version-25)   |
+| 2.4     | 2024-05-15   | [Version 2.4](#version-24)   |
+| 2.3     | 2024-05-15   | [Version 2.3](#version-23)   |
+| 2.2     | 2024-05-15   | [Version 2.2](#version-22)   |
+| 2.1     | 2024-04-15   | [Version 2.1](#version-21)   |
+| 2.0     | 2024-03-24   | [Version 2.0](#version-20)   |
+| 1.3     | 2024-03-12   | [Version 1.3](#version-13)   |
+| 1.2     | 2024-03-12   | [Version 1.2](#version-12)   |
+| 1.1     | 2024-03-11   | [Version 1.1](#version-11)   |
+| 1.0     | 2024-03-06   | [Version 1.0](#version-10)   |
+
+</details>
 
 ---
+
+## Version 2.19
+
+**Release Date:** 2025-01-14
+
+**Changes:**
+
+- Fixed contact button not clicking - JavaScript code was deleted
 
 ## Version 2.18
 
