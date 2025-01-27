@@ -1,176 +1,144 @@
 [
   {
-    "mov": "guess_my_number",
     "name": "Guess My Number!",
-    "type": "Simple game",
-    "skills": ["javascript", "DOM manipulation"],
-    "link": "https://github.com/kislevlevy/guess-my-number"
+    "desc": "\"Guess My Number!\" is a simple and interactive web-based game where players attempt to guess a randomly generated number between 1 and 20, with hints provided to guide their guesses.",
+    "skills": ["JavaScript", "HTML5", "CSS3", "Game", "DOM manipulation"]
   },
   {
-    "mov": "pig_game",
     "name": "Pig Game",
-    "type": "Simple game",
-    "skills": ["javascript", "DOM manipulation"],
-    "link": "https://github.com/kislevlevy/pig-game"
+    "desc": "Pig Game is a fun, turn-based dice game where players compete to reach 100 points first. Roll the dice, hold your score, and avoid rolling a 1!",
+    "skills": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Game",
+      "DOM Manipulation",
+      "Event Handling"
+    ]
   },
   {
-    "mov": "budgety",
     "name": "Budgety",
-    "type": "Simple budget app",
-    "skills": ["javascript", "DOM manipulation", "RestAPI"],
-    "link": "https://github.com/kislevlevy/budgety"
+    "desc": "Budgety is a budget management app that helps you track income and expenses, providing a clear financial overview for informed decision-making.",
+    "skills": ["Budget", "Finance", "JavaScript", "DOM manipulation"]
   },
   {
-    "mov": "bankist_app",
     "name": "Bankist App",
-    "type": "Modern banking app with transaction capabillities",
-    "skills": ["javascript", "DOM manipulation", "RestAPI"],
-    "link": "https://github.com/kislevlevy/bankist-app"
+    "desc": "A modern banking application with features like money transfers, loan requests, account management, and more.",
+    "skills": ["banking", "JavaScript", "HTML", "CSS", "DOM manipulation"]
   },
   {
-    "mov": "bankist_domain",
     "name": "Bankist Domain",
-    "type": "business website with modern UI elements",
+    "desc": "Bankist Domain is a modern bank website showcasing smooth scrolling, lazy loading, carousels, and responsive design.",
     "skills": [
-      "javascript",
-      "DOM manipulation",
-      "RestAPI",
-      "CSS class manipulation"
-    ],
-    "link": "https://github.com/kislevlevy/bankist-domain"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "DOM Manipulation",
+      "Lazy Loading",
+      "Smooth Scrolling"
+    ]
   },
   {
-    "mov": "mapty",
     "name": "Mapty",
-    "type": "Workouts mapping appliction, with modern api integration",
+    "desc": "Mapty is a workout app to track running and cycling workouts on a map. It features a modern, responsive interface and uses local storage for data persistence.",
     "skills": [
-      "javascript",
-      "DOM manipulation",
-      "RestAPI",
-      "Simple Database",
-      "Parcel"
-    ],
-    "link": "https://github.com/kislevlevy/mapty"
+      "Workout",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Local Storage",
+      "DOM manipulation"
+    ]
   },
   {
-    "mov": "forkify",
     "name": "Forkify",
-    "type": "Recipe search app with modern UI and complex api integration",
-    "skills": [
-      "javascript",
-      "DOM manipulation",
-      "RestAPI",
-      "Simple Database",
-      "Parcel"
-    ],
-    "link": "https://github.com/kislevlevy/forkify"
+    "desc": "Forkify is a recipe search engine with a modern UI, allowing users to find, save, and create recipes easily.",
+    "skills": ["JavaScript", "HTML5", "CSS3", "API", "Parcel", "DOM manipulation"]
   },
   {
-    "mov": "our_farm",
     "name": "Our Farm",
-    "type": "an example for Node.js implumintation with clean Node.js without any libraries or frameworks",
+    "desc": "Our Farm API is a Node.js-based API designed to support the \"Our Farm\" shopping site, providing endpoints for retrieving detailed information about fresh goods such as vegetables and cheese.",
     "skills": [
       "Node.js",
-      "Javascript",
-      "DOM manipulation",
-      "RestAPI",
-      "Rest API"
-    ],
-    "link": "https://github.com/kislevlevy/our-farm"
+      "API",
+      "RESTful",
+      "E-commerce",
+      "Backend",
+      "JavaScript",
+      "JSON"
+    ]
   },
   {
-    "mov": "get_movie_recommendations",
     "name": "Get Movie Recommendations",
-    "type": "movie search engine with a clean design and modal for detailed info",
+    "desc": "Get Movie Recommendations is a responsive movie search engine that allows users to search by name, year, and type with real-time results.",
     "skills": [
+      "movies",
+      "OMDB-API",
       "JavaScript",
-      "DOM manipulation",
-      "OMDB API integration",
-      "Custom CSS"
-    ],
-    "link": "https://github.com/kislevlevy/get-movie-recommendations"
+      "HTML5",
+      "CSS3",
+      "API-integration",
+      "OOP"
+    ]
   },
   {
-    "mov": "clean_weather_client",
     "name": "Clean Weather Client",
-    "type": "weather search engine with a modern design and map integration",
+    "desc": "A sleek and modern weather search engine providing a 5-day forecast for any location with an interactive map and responsive design.",
     "skills": [
+      "Weather",
+      "Interactive Map",
+      "API Integration",
       "JavaScript",
-      "DOM manipulation",
-      "OpenWeather API integration",
-      "Google Maps API integration",
-      "Custom CSS"
-    ],
-    "link": "https://github.com/kislevlevy/clean-weather-client"
+      "CSS3",
+      "HTML5",
+      "DOM manipulation"
+    ]
   },
   {
-    "mov": "cashier_client",
     "name": "Cashier Client",
-    "type": "store management software with secure user authentication and product management",
+    "desc": "Cashier Client is a store management software offering secure user authentication, role-based access, product management, and feedback handling.",
     "skills": [
-      "JavaScript",
+      "User Authentication",
+      "Roles Restriction",
       "Node.js",
-      "MongoDB",
-      "Mongoose",
       "Express",
-      "Role-based access control",
-      "Custom CSS"
-    ],
-    "link": "https://github.com/kislevlevy/cashier-client"
+      "MongoDB",
+      "JavaScript",
+      "OOP"
+    ]
   },
   {
-    "mov": "todo_app",
     "name": "Todo App",
-    "type": "task management app with urgency filtering with a fully functional backend",
-    "skills": [
-      "React",
-      "Node.js",
-      "MongoDB",
-      "Mongoose",
-      "Express",
-      "Bootstrap",
-      "JavaScript",
-      "Responsive design"
-    ],
-    "link": "https://github.com/kislevlevy/todo-app"
+    "desc": "A responsive task management app using React, Node.js, and MongoDB. Features task creation, editing, deletion, and filtering.",
+    "skills": ["React", "Node.js", "MongoDB", "Express", "Bootstrap", "REST API"]
   },
   {
-    "mov": "natours",
     "name": "Natours",
-    "type": "Full-stack application designed for tour management, featuring a RESTful API and server-rendered pages. The app is fully optimized, allowing users to explore, book, and manage tours with a seamless experience.",
+    "desc": "Full-stack application designed for tour management, featuring a RESTful API and server-rendered pages. The app is fully optimized, allowing users to explore, book, and manage tours with a seamless experience.",
     "skills": [
       "Node.js",
       "Express",
       "MongoDB",
-      "Server side rendering",
-      "RESTful APIs",
-      "Stripe payments"
-    ],
-    "link": "https://github.com/kislevlevy/natours"
+      "JWT",
+      "Stripe",
+      "RESTful API",
+      "Geospatial",
+      "SSR"
+    ]
   },
   {
-    "mov": "studybud",
     "name": "Studybud",
-    "type": "A responsive forum for programmers to discuss topics, manage rooms, exchange messages, and view user profiles, built with Django, SQLite, and DRF.",
-    "skills": [
-      "Django",
-      "SQLite",
-      "Django Rest Framework",
-      "Server side rendering"
-    ],
-    "link": "https://github.com/kislevlevy/studybud"
+    "desc": "A responsive forum for programmers to discuss topics, manage rooms, exchange messages, and view user profiles, built with Django, SQLite, and DRF.",
+    "skills": ["Django", "SQLite", "Django Rest Framework", "Server side rendering"]
   },
   {
-    "mov": "chat_verse",
     "name": "Chat Verse",
-    "type": "Fully working and functional Discord clone, built with Next.js",
-    "skills": ["Next.js", "PrismaDB", "Typescript", "RestAPI", "Web-Socket"],
-    "link": "https://github.com/kislevlevy/chat-verse"
+    "desc": "Chat Verse is a Discord replica for organizing servers, channels, and conversations with text, voice, and video communication.",
+    "skills": ["Next.js", "TypeScript", "Prisma", "WebSocket", "Chat", "mySQL"]
   },
   {
-    "mov": "teva_naot",
     "name": "Teva Naot",
-    "type": "Teva Naot Better Clone aims to modernize the e-commerce experience for the Israeli shoe brand Teva Naot",
+    "desc": "Teva Naot Better Clone aims to modernize the e-commerce experience for the Israeli shoe brand Teva Naot",
     "skills": [
       "React",
       "Node.js",
@@ -180,20 +148,19 @@
       "Tailwind",
       "JavaScript",
       "Responsive design"
-    ],
-    "link": "https://github.com/kislevlevy/teva-naot"
+    ]
   },
   {
-    "mov": "a_vending_machine",
-    "name": "AVendingMachine",
-    "type": "Landing site built for a proffessional company",
+    "name": "A Vending Machine",
+    "desc": "AVendingMachine is a modern web app showcasing vending machines with a responsive design, real-time data, and interactive UI.",
     "skills": [
       "React",
-      "Typescript",
-      "ShadcnUi",
+      "TypeScript",
+      "Vite",
       "Tailwind",
-      "Responsive design"
-    ],
-    "link": "https://github.com/kislevlevy/avendingmachine"
+      "Firebase",
+      "ShadcnUi",
+      "RTK"
+    ]
   }
 ]

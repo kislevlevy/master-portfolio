@@ -7,6 +7,7 @@ This document tracks the versions and changes made to the project.
 
 | Version | Release Date | Link                         |
 | ------- | ------------ | ---------------------------- |
+| 2.20    | 2025-01-28   | [Version 2.20](#version-220) |
 | 2.19    | 2025-01-14   | [Version 2.19](#version-219) |
 | 2.18    | 2025-01-12   | [Version 2.18](#version-218) |
 | 2.17    | 2025-01-12   | [Version 2.17](#version-217) |
@@ -35,6 +36,16 @@ This document tracks the versions and changes made to the project.
 </details>
 
 ---
+
+## Version 2.20
+
+**Release Date:** 2025-01-28
+
+**Changes:**
+
+- Comprehensive update for all projects to ensure consistency and improved functionality.
+- Enhanced file structure for better organization and maintainability.
+- Implemented slug functionality in `script.js` to improve the management and maintainability of `projects.json`.
 
 ## Version 2.19
 
