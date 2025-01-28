@@ -1,6 +1,6 @@
 [
   {
-    "name": "Guess My Number!",
+    "name": "Guess My Number",
     "desc": "\"Guess My Number!\" is a simple and interactive web-based game where players attempt to guess a randomly generated number between 1 and 20, with hints provided to guide their guesses.",
     "skills": ["JavaScript", "HTML5", "CSS3", "Game", "DOM manipulation"]
   },

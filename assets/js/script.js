@@ -1,5 +1,8 @@
 'use strict';
 
+// Slugify - convert string to slug
+const slugify = (str) => str.toLowerCase().replace(/ /g, '-');
+
 // element toggle function
 const elementToggleFunc = function (elem) {
   elem.classList.toggle('active');
@@ -60,8 +63,3 @@ projects.forEach(function (mov) {
 
   grid.insertAdjacentHTML('afterbegin', html);
 });
-
-// Helper functions:
-
-// Slugify - convert string to slug
-const slugify = (str) => str.toLowerCase().replace(/ /g, '-');

@@ -7,7 +7,8 @@ This document tracks the versions and changes made to the project.
 
 | Version | Release Date | Link                         |
 | ------- | ------------ | ---------------------------- |
-| 2.20    | 2025-01-28   | [Version 2.20](#version-220) |
+| 3.1     | 2025-01-28   | [Version 3.1](#version-31)   |
+| 3.0     | 2025-01-28   | [Version 3.0](#version-30)   |
 | 2.19    | 2025-01-14   | [Version 2.19](#version-219) |
 | 2.18    | 2025-01-12   | [Version 2.18](#version-218) |
 | 2.17    | 2025-01-12   | [Version 2.17](#version-217) |
@@ -37,7 +38,16 @@ This document tracks the versions and changes made to the project.
 
 ---
 
-## Version 2.20
+## Version 3.1
+
+**Release Date:** 2025-02-10
+
+**Changes:**
+
+- Fixed URL forwarding not working.
+- Correctly placed the slugify function in `script.js`.
+
+## Version 3.0
 
 **Release Date:** 2025-01-28
 
