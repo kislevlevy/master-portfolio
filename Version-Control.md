@@ -7,6 +7,7 @@ This document tracks the versions and changes made to the project.
 
 | Version | Release Date | Link                         |
 | ------- | ------------ | ---------------------------- |
+| 4.2     | 2025-06-06   | [Version 4.2](#version-42)   |
 | 4.1     | 2025-06-06   | [Version 4.1](#version-41)   |
 | 4.0     | 2025-06-06   | [Version 4.0](#version-40)   |
 | 3.1     | 2025-01-28   | [Version 3.1](#version-31)   |
@@ -39,6 +40,18 @@ This document tracks the versions and changes made to the project.
 </details>
 
 ---
+
+## Version 4.2
+
+**Release Date:** 2025-06-06
+
+**Changes:**
+
+- Added two missing projects to the portfolio:
+  - **Web Scan:** A modern website scanning application that allows users to enter a URL, initiate a scan, and retrieve metadata such as hosting details, technologies used, and server response using HTTPX by ProjectDiscovery. Built with Python/Django backend and React/TypeScript frontend.
+  - **Wolt Split Calculator:** A sleek, dark-themed React application designed to simplify bill splitting for Wolt food delivery orders with smart fee distribution, intelligent rounding, and smooth animations using the Monokai Pro color scheme.
+- Reorganized project order in `projects.json` for improved presentation and logical flow.
+- Enhanced project descriptions with more detailed information from README files.
 
 ## Version 4.1
 

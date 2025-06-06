@@ -22,40 +22,6 @@
     "skills": ["Budget", "Finance", "JavaScript", "DOM manipulation"]
   },
   {
-    "name": "Bankist App",
-    "desc": "A modern banking application with features like money transfers, loan requests, account management, and more.",
-    "skills": ["banking", "JavaScript", "HTML", "CSS", "DOM manipulation"]
-  },
-  {
-    "name": "Bankist Domain",
-    "desc": "Bankist Domain is a modern bank website showcasing smooth scrolling, lazy loading, carousels, and responsive design.",
-    "skills": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "DOM Manipulation",
-      "Lazy Loading",
-      "Smooth Scrolling"
-    ]
-  },
-  {
-    "name": "Mapty",
-    "desc": "Mapty is a workout app to track running and cycling workouts on a map. It features a modern, responsive interface and uses local storage for data persistence.",
-    "skills": [
-      "Workout",
-      "JavaScript",
-      "HTML5",
-      "CSS3",
-      "Local Storage",
-      "DOM manipulation"
-    ]
-  },
-  {
-    "name": "Forkify",
-    "desc": "Forkify is a recipe search engine with a modern UI, allowing users to find, save, and create recipes easily.",
-    "skills": ["JavaScript", "HTML5", "CSS3", "API", "Parcel", "DOM manipulation"]
-  },
-  {
     "name": "Our Farm",
     "desc": "Our Farm API is a Node.js-based API designed to support the \"Our Farm\" shopping site, providing endpoints for retrieving detailed information about fresh goods such as vegetables and cheese.",
     "skills": [
@@ -82,16 +48,20 @@
     ]
   },
   {
-    "name": "Clean Weather Client",
-    "desc": "A sleek and modern weather search engine providing a 5-day forecast for any location with an interactive map and responsive design.",
+    "name": "Bankist App",
+    "desc": "A modern banking application with features like money transfers, loan requests, account management, and more.",
+    "skills": ["banking", "JavaScript", "HTML", "CSS", "DOM manipulation"]
+  },
+  {
+    "name": "Bankist Domain",
+    "desc": "Bankist Domain is a modern bank website showcasing smooth scrolling, lazy loading, carousels, and responsive design.",
     "skills": [
-      "Weather",
-      "Interactive Map",
-      "API Integration",
+      "HTML",
+      "CSS",
       "JavaScript",
-      "CSS3",
-      "HTML5",
-      "DOM manipulation"
+      "DOM Manipulation",
+      "Lazy Loading",
+      "Smooth Scrolling"
     ]
   },
   {
@@ -113,6 +83,41 @@
     "skills": ["React", "Node.js", "MongoDB", "Express", "Bootstrap", "REST API"]
   },
   {
+    "name": "Chat Verse",
+    "desc": "Chat Verse is a Discord replica for organizing servers, channels, and conversations with text, voice, and video communication.",
+    "skills": ["Next.js", "TypeScript", "Prisma", "WebSocket", "Chat", "mySQL"]
+  },
+  {
+    "name": "Clean Weather Client",
+    "desc": "A sleek and modern weather search engine providing a 5-day forecast for any location with an interactive map and responsive design.",
+    "skills": [
+      "Weather",
+      "Interactive Map",
+      "API Integration",
+      "JavaScript",
+      "CSS3",
+      "HTML5",
+      "DOM manipulation"
+    ]
+  },
+  {
+    "name": "Mapty",
+    "desc": "Mapty is a workout app to track running and cycling workouts on a map. It features a modern, responsive interface and uses local storage for data persistence.",
+    "skills": [
+      "Workout",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Local Storage",
+      "DOM manipulation"
+    ]
+  },
+  {
+    "name": "Forkify",
+    "desc": "Forkify is a recipe search engine with a modern UI, allowing users to find, save, and create recipes easily.",
+    "skills": ["JavaScript", "HTML5", "CSS3", "API", "Parcel", "DOM manipulation"]
+  },
+  {
     "name": "Natours",
     "desc": "Full-stack application designed for tour management, featuring a RESTful API and server-rendered pages. The app is fully optimized, allowing users to explore, book, and manage tours with a seamless experience.",
     "skills": [
@@ -132,9 +137,32 @@
     "skills": ["Django", "SQLite", "Django Rest Framework", "Server side rendering"]
   },
   {
-    "name": "Chat Verse",
-    "desc": "Chat Verse is a Discord replica for organizing servers, channels, and conversations with text, voice, and video communication.",
-    "skills": ["Next.js", "TypeScript", "Prisma", "WebSocket", "Chat", "mySQL"]
+    "name": "Wolt Split Calculator",
+    "desc": "A sleek, dark-themed React application designed to simplify bill splitting for Wolt food delivery orders with smart fee distribution, intelligent rounding, and smooth animations using the Monokai Pro color scheme.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Styled Components",
+      "Framer Motion",
+      "UUID",
+      "Animation",
+      "Responsive Design",
+      "Mathematical Calculations"
+    ]
+  },
+  {
+    "name": "A Vending Machine",
+    "desc": "AVendingMachine is a modern web app showcasing vending machines with a responsive design, real-time data, and interactive UI.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "Tailwind",
+      "Firebase",
+      "ShadcnUi",
+      "RTK"
+    ]
   },
   {
     "name": "Teva Naot",
@@ -151,16 +179,19 @@
     ]
   },
   {
-    "name": "A Vending Machine",
-    "desc": "AVendingMachine is a modern web app showcasing vending machines with a responsive design, real-time data, and interactive UI.",
+    "name": "Web Scan",
+    "desc": "A modern website scanning application that allows users to enter a URL, initiate a scan, and retrieve metadata such as hosting details, technologies used, and server response using HTTPX by ProjectDiscovery.",
     "skills": [
+      "Python",
+      "Django",
       "React",
       "TypeScript",
       "Vite",
-      "Tailwind",
-      "Firebase",
-      "ShadcnUi",
-      "RTK"
+      "TailwindCSS",
+      "ShadCN UI",
+      "HTTPX",
+      "API Integration",
+      "Web Scanning"
     ]
   }
 ]
