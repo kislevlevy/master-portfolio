@@ -7,6 +7,7 @@ This document tracks the versions and changes made to the project.
 
 | Version | Release Date | Link                         |
 | ------- | ------------ | ---------------------------- |
+| 4.1     | 2025-06-06   | [Version 4.1](#version-41)   |
 | 4.0     | 2025-06-06   | [Version 4.0](#version-40)   |
 | 3.1     | 2025-01-28   | [Version 3.1](#version-31)   |
 | 3.0     | 2025-01-28   | [Version 3.0](#version-30)   |
@@ -38,6 +39,14 @@ This document tracks the versions and changes made to the project.
 </details>
 
 ---
+
+## Version 4.1
+
+**Release Date:** 2025-06-06
+
+**Changes:**
+
+- Updated my profile image.
 
 ## Version 4.0
 
