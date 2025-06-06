@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
    npm start
    ```
 5. Open `index.html` in your preferred web browser.
-   > You can also preview the portfolio by visiting the following link: [Master Portfolio](http://kislev.me)
+   > You can also preview the portfolio by visiting the following link: [Master Portfolio](https://kislevlevy.github.io/master-portfolio/)
 
 ## How to Use
 
