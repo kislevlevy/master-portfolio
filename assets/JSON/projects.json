@@ -165,6 +165,20 @@
     ]
   },
   {
+    "name": "Generative UI Demo",
+    "desc": "AI-powered chat interface with generative UI for weather and stock data using Next.js and Anthropic Claude",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Generative UI",
+      "Chat Interface",
+      "ShadCN UI",
+      "AI Tools",
+      "Anthropic Claude",
+      "API Integration"
+    ]
+  },
+  {
     "name": "Teva Naot",
     "desc": "Teva Naot Better Clone aims to modernize the e-commerce experience for the Israeli shoe brand Teva Naot",
     "skills": [

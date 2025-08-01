@@ -7,6 +7,7 @@ This document tracks the versions and changes made to the project.
 
 | Version | Release Date | Link                         |
 | ------- | ------------ | ---------------------------- |
+| 4.3     | 2025-01-08   | [Version 4.3](#version-43)   |
 | 4.2     | 2025-06-06   | [Version 4.2](#version-42)   |
 | 4.1     | 2025-06-06   | [Version 4.1](#version-41)   |
 | 4.0     | 2025-06-06   | [Version 4.0](#version-40)   |
@@ -40,6 +41,15 @@ This document tracks the versions and changes made to the project.
 </details>
 
 ---
+
+## Version 4.3
+
+**Release Date:** 2025-01-08
+
+**Changes:**
+
+- Added new project to the portfolio:
+  - **Generative UI Demo:** AI-powered chat interface with generative UI for weather and stock data using Next.js and Anthropic Claude. Features dynamic UI components that adapt based on AI-generated responses for improved user interaction.
 
 ## Version 4.2
 
